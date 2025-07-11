@@ -1,0 +1,6 @@
+repo:
+https://github.com/toffycaluga/agroverde_grupo_1
+
+
+para clonar :
+git clone https://github.com/toffycaluga/agroverde_grupo_1.git
