@@ -1,11 +1,11 @@
-# AgroVerde_grupoX
+<h1 style="color:#009979;"> AgroVerde grupo 1</h1>
 
 **Desafío:** AE5_ABPRO-Ejercicio grupal [Actividad Opcional]  
 **Integrantes:** 
 - David Ferrer
--  Jasmin 
-- Patricia  
--  Abraham Lillo
+- Jasmin Salvador
+- Patricia Vidal
+- Abraham Lillo
 
 ---
 
